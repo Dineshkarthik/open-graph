@@ -1,1 +1,1 @@
-from open_graph import OpenGraph
+from .open_graph import get_og
